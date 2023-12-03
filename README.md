@@ -3,12 +3,15 @@
 
 # Aim : 
 
+
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
 
 # Software required :  
 
+
 Python and Visual components tool
+
 
 # Theory:
 
@@ -45,10 +48,18 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Experiment :
 
+
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
+
 
 # Program :
 ~~~
+
+Developed by: MERCY A
+
+Reg No: 23012506
+
+
 import numpy as np
 A=[int(i) for i in input().split()]
 B=len(A); M=max(A) 
@@ -73,9 +84,15 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 ~~~
+
 # Output : 
+
+
 ![Screenshot 2023-11-26 134658](https://github.com/mercyarulappan/Mean-and-Variance/assets/149233730/0672a340-8bd8-4301-9e97-c94c3ee1e3c4)
 
+
 # Results :
+
+
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
