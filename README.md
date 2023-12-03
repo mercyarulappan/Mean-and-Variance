@@ -29,6 +29,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Procedure :
 
+
 1. Construct frequency distribution for the data
 
 2. Find the  probability distribution from frequency distribution.
@@ -53,6 +54,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Program :
+
 ~~~
 
 Developed by: MERCY A
